@@ -32,17 +32,22 @@
 
 HackerRank Badges
 
-![](HackerrankBadge.png)
+
+![image](https://user-images.githubusercontent.com/78849805/112291560-38370b00-8cb6-11eb-9905-21f2d1db3d98.png)
+
 
 Microsoft Badges
 
-![](m1.png)
 
-![](m2.png) ![](m3.png)
+![image](https://user-images.githubusercontent.com/78849805/112291623-48e78100-8cb6-11eb-88d8-66460630e9fa.png)
+![image](https://user-images.githubusercontent.com/78849805/112291685-58ff6080-8cb6-11eb-87d8-4094dc47c552.png)
+![image](https://user-images.githubusercontent.com/78849805/112291727-63b9f580-8cb6-11eb-8863-48a73ee436ec.png)
+
+
 
 Certificates
+![Uploading image.png…]()
 
-![](C#_Certification.png)
 
 **Mini Projects:**
 
