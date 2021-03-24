@@ -32,17 +32,17 @@
 
 HackerRank Badges
 
-![](RackMultipart20210324-4-pmq7hx_html_75f7f662a177ab2f.png)
+![](HackerrankBadge.png)
 
 Microsoft Badges
 
-![](RackMultipart20210324-4-pmq7hx_html_a07e9edacf0d8531.png)
+![](m1.png)
 
-![](RackMultipart20210324-4-pmq7hx_html_435f821411c2bdcf.png) ![](RackMultipart20210324-4-pmq7hx_html_cf22289d85de874d.png)
+![](m2.png) ![](m3.png)
 
 Certificates
 
-![](RackMultipart20210324-4-pmq7hx_html_ebe71b4065289b9d.png)
+![](C#_Certification.png)
 
 **Mini Projects:**
 
