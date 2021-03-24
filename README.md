@@ -46,7 +46,9 @@ Microsoft Badges
 
 
 Certificates
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/78849805/112291982-a2e84680-8cb6-11eb-8cba-8e13169ca872.png)
+
+
 
 
 **Mini Projects:**
