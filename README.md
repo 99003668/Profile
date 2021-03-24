@@ -17,7 +17,7 @@
 
 **Tools:**
 
-- SQL Server Management System (SSMS)
+- SQL Server Management Studio (SSMS)
 - SQL
 - Visual Studio 2019
 - PostMan
