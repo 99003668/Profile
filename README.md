@@ -54,6 +54,4 @@ Certificates
 **Mini Projects:**
 
 1. DemoKart Application: [https://dev.azure.com/ralisirisharani/\_git/99003668\_DemoKart\_ASP.Net](https://dev.azure.com/ralisirisharani/_git/99003668_DemoKart_ASP.Net)
-2. Embedded Lab Management:
-
-[https://dev.azure.com/ralisirisharani/99003668\_Emb\_Lab\_Management](https://dev.azure.com/ralisirisharani/99003668_Emb_Lab_Management)
+2. Embedded Lab Management:[https://dev.azure.com/ralisirisharani/99003668\_Emb\_Lab\_Management](https://dev.azure.com/ralisirisharani/99003668_Emb_Lab_Management)
